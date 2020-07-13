@@ -9,6 +9,7 @@
 
 <p align="center">
 <a href= "https://www.instagram.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/instagram-new.png"/></a>
+  <a href= "https://www.linkedin.com/in/adsalihac/"><img src="https://img.icons8.com/ios/24/000000/linkedin.png"/></a>
 <a href= "https://www.facebook.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/facebook.png"/></a>
 <a href= "https://twitter.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/twitter.png"/></a>
   
