@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-Check out my repos ⬇️  
+![](https://visitor-badge.glitch.me/badge?page_id=adsalihac)
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=adsalihac)
+
 
 
 <!--
