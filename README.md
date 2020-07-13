@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="center">
+<div align="center">
   
 <a href= "https://api.whatsapp.com/send?phone=+919656460604"><img src="https://img.icons8.com/ios/24/000000/whatsapp.png"/></a>
 <a href= "https://www.instagram.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/instagram-new.png"/></a>
@@ -16,7 +16,7 @@
 <a href= "https://twitter.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/twitter.png"/></a>
 <a href= "https://play.google.com/store/apps/dev?id=5343310555850449826"><img src="https://img.icons8.com/ios/24/000000/playstore.png"/></a>
 
-</p>
+</div>
 
 <div align="center">
   
