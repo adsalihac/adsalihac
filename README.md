@@ -1,6 +1,7 @@
-### Hi there 👋 welcome to my Github!
+
 
 <p align="center">
+  ### Hi there 👋 welcome to my Github!
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
