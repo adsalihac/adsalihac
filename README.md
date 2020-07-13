@@ -6,8 +6,8 @@
 
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://www.instagram.com/adsalihac"><img src="https://img.icons8.com/material/50/000000/instagram-new.png"/></a>
+<a href= "https://twitter.com/adsalihac"><img src="https://img.icons8.com/material/24/000000/twitter--v1.png"/></a>
 </p>
 
 <p align="center">
