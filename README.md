@@ -14,7 +14,7 @@
 <a href= "https://www.linkedin.com/in/adsalihac/"><img src="https://img.icons8.com/ios/24/000000/linkedin.png"/></a>
 <a href= "https://www.facebook.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/facebook.png"/></a>
 <a href= "https://twitter.com/adsalihac"><img src="https://img.icons8.com/ios/24/000000/twitter.png"/></a>
-<a href= "https://play.google.com/store/apps/dev?id=5343310555850449826"><img src="https://img.icons8.com/ios/24/000000/playstore.png"/></a>
+<a href= "https://play.google.com/store/apps/developer?id=SH+DEVELOPERS"><img src="https://img.icons8.com/ios/24/000000/playstore.png"/></a>
 
 </div>
 
