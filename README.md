@@ -21,6 +21,7 @@
 <div align="center">
   
 ![](https://visitor-badge.glitch.me/badge?page_id=adsalihac)
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/adsalihac/)
 
 </div>
 
