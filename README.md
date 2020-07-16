@@ -1,7 +1,6 @@
 <div align="center">
   
   ### Hi there 👋 welcome to my Github!
-<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adsalihac)
 
