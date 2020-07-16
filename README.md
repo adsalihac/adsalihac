@@ -2,7 +2,9 @@
   
   ### Hi there 👋 welcome to my Github!
 <br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adsalihac)
+
 </div>
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
