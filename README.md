@@ -20,8 +20,7 @@
 
 <div align="center">
   
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adsalihac)
-<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adsalihac)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/adsalihac)
