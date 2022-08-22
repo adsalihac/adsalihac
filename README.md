@@ -1,5 +1,7 @@
 ## Hi, I am AHMED SALIH AC!
 
+![](https://komarev.com/ghpvc/?username=adsalihac)
+
 </br>
 
  <div>
