@@ -21,6 +21,8 @@
   <a href = "mailto: adsalihac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
+<a href="https://www.buymeacoffee.com/adsalihac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
  
   ![Snake animation](https://github.com/adsalihac/adsalihac/blob/output/github-contribution-grid-snake.svg)
