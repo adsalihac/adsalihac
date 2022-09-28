@@ -21,10 +21,7 @@
   <a href = "mailto: adsalihac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<h3 align="left">Buy a Coffee</h3>
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="adsalihac" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
+<a href="https://www.buymeacoffee.com/adsalihac"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=adsalihac&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
  
   ![Snake animation](https://github.com/adsalihac/adsalihac/blob/output/github-contribution-grid-snake.svg)
  
