@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adsalihac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
- ## 🛠️ My Skills
+<h3 align="left">My Skills</h3>
 
 ### 👉 Programming languages
 
