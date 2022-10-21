@@ -132,10 +132,6 @@
  &emsp; 
 </p>
 
-<br/>
- 
-
-
 <h3 align="left">Contact</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
    <a href="https://www.linkedin.com/in/adsalihac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
