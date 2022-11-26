@@ -4,11 +4,11 @@
 
 </br>
 
- <div>
+ [<div>
   <a href="https://github.com/adsalihac">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsalihac&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adsalihac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+</div>](https://api.daily.dev/devcards/37ed52f445534a3988a2a03315d253b7.png?r=j5r)
  
 <h3 align="left">My Skills</h3>
 
