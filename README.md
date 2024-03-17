@@ -4,7 +4,7 @@
 
 </br>
 
-<a href="https://app.daily.dev/adsalihac"><img src="https://api.daily.dev/devcards/v2/DmCaQu6dQ.png?r=0bd" width="356" alt="AHMED SALIH AC's Dev Card"/></a>
+<a href="https://app.daily.dev/adsalihac"><img src="https://api.daily.dev/devcards/v2/DmCaQu6dQ.png?type=wide&r=zuk" width="652" alt="AHMED SALIH AC's Dev Card"/></a>
 
 <h3 align="left">My Skills</h3>
 
