@@ -8,7 +8,8 @@
 
 ### 👉 Android Apps
 
-[<a hr](https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac)
+<a href="[https://app.daily.dev/adsalihac](PlayStore)"></a>
+
 
 <h3 align="left">My Skills</h3>
 
