@@ -6,6 +6,10 @@
 
 <a href="https://app.daily.dev/adsalihac"><img src="https://api.daily.dev/devcards/v2/DmCaQu6dQ.png?type=wide&r=zuk" width="652" alt="AHMED SALIH AC's Dev Card"/></a>
 
+### 👉 Android Apps
+
+[<a hr](https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac)
+
 <h3 align="left">My Skills</h3>
 
 ### 👉 Programming languages
