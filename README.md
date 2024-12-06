@@ -8,7 +8,7 @@
 
 ### 👉 Android Apps
 
-<a href="[https://app.daily.dev/adsalihac](PlayStore)"></a>
+<a href="https://app.daily.dev/adsalihac">PlayStore</a>
 
 
 <h3 align="left">My Skills</h3>
