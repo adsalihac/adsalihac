@@ -65,11 +65,6 @@
  &emsp; 
 </p>
 
-### 👉 Frameworks
-<p align="left">
-&emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-</p>
-
 
 ### 👉Graphic Designing
 <p align="left">
