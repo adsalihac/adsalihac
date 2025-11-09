@@ -2,13 +2,6 @@
 <a href="https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac">
   <img src="https://komarev.com/ghpvc/?username=adsalihac&style=flat-square&color=blue" alt="Profile Views"/>
 </a>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac">
-    <img src="https://api.daily.dev/devcards/v2/DmCaQu6dQ.png?type=wide&r=zuk" width="600" alt="Ahmed Salih AC's Dev Card"/>
-  </a>
-</p>
-
 ---
 
 ### 🚀 Android Apps
