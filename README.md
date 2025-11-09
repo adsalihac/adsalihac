@@ -2,7 +2,6 @@
 <a href="https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac">
   <img src="https://komarev.com/ghpvc/?username=adsalihac&style=flat-square&color=blue" alt="Profile Views"/>
 </a>
----
 
 ### 🧠 About Me
 - 💡 Passionate about **building engaging, scalable mobile apps**.  
@@ -55,39 +54,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=adsalihac&theme=flat&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/adsalihac" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/adsalihac" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:adsalihac@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-
-### 🚀 Android Apps
-🎯 Explore my published apps on  
-👉 [**Google Play Store**](https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac)
-
----
-
 ## ☕ Support My Work
 <a href="https://www.buymeacoffee.com/adsalihac">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=adsalihac&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/>
+ <a href="https://www.buymeacoffee.com/adsalihac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </a>
-
----
-
-![Snake animation](https://github.com/adsalihac/adsalihac/blob/output/github-contribution-grid-snake.svg)
