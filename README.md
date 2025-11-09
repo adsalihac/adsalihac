@@ -4,12 +4,6 @@
 </a>
 ---
 
-### 🚀 Android Apps
-🎯 Explore my published apps on  
-👉 [**Google Play Store**](https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac)
-
----
-
 ### 🧠 About Me
 - 💡 Passionate about **building engaging, scalable mobile apps**.  
 - 🧑‍💻 Over **10 years of experience** in mobile development, including **6+ years with React Native**.  
@@ -66,6 +60,7 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/adsalihac" target="_blank">
@@ -78,6 +73,13 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+
+### 🚀 Android Apps
+🎯 Explore my published apps on  
+👉 [**Google Play Store**](https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac)
 
 ---
 
