@@ -1,60 +1,104 @@
-## 👋 Hi, I'm **Ahmed Salih A C!**
-<a href="https://play.google.com/store/apps/developer?id=Ahmed+Salih+Ac">
-  <img src="https://komarev.com/ghpvc/?username=adsalihac&style=flat-square&color=blue" alt="Profile Views"/>
-</a>
+<h1 align="center">Hi 👋, I'm Ahmed Salih A C</h1>
+<h3 align="center">Product Engineering Lead | Mobile Architect | React Native Specialist</h3>
 
-### 🧠 About Me
-- 💡 Passionate about **building engaging, scalable mobile apps**.  
-- 🧑‍💻 Over **10 years of experience** in mobile development, including **6+ years with React Native**.  
-- 🏗️ Currently focused on creating innovative **EdTech apps** that redefine learning experiences.  
-- 💬 Love turning complex ideas into intuitive user experiences.  
-- ⚡ Always exploring **AI-driven UI**, **cross-platform design**, and **modern animations**.
-
----
-
-## 🧩 Tech Stack
-
-### 🖥️ Languages
-<p align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-</p>
-
-### ☁️ Databases & Cloud
-<p align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white"/>
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Frameworks
-<p align="left">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"/>
-</p>
-
-### 🎨 Design
-<p align="left">
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white"/>
+<p align="center">
+Building scalable, high-performance mobile systems 🚀
 </p>
 
 ---
 
-## ☕ Support My Work
-<a href="https://www.buymeacoffee.com/adsalihac">
- <a href="https://www.buymeacoffee.com/adsalihac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</a>
+## 🧠 About Me
+
+I am a Mobile Architect and Product Engineering Lead with **10+ years of experience** in mobile development, including **6+ years specializing in high-scale React Native applications**.
+
+I focus on building production-grade mobile systems that are:
+
+- ⚡ Performance-optimized (TTR, FPS stability, bundle size)
+- 🔐 Security-aligned (OWASP, SSL Pinning, Secure Storage, JWT)
+- 🔁 CI/CD automated (GitHub Actions, Fastlane)
+- 📊 Production-monitored (Crash reporting & analytics)
+- 🏗️ Architected for long-term scalability
+
+I don't just build apps —  
+I build systems and teams that scale.
+
+Currently building innovative EdTech ecosystems at **TRIZ 🚀**
+
+---
+
+## 🏗️ Core Engineering Focus
+
+### 🚀 Mobile Architecture
+- Modular & scalable React Native architecture
+- Clean separation of concerns
+- REST optimization & payload efficiency
+- Offline-first capabilities
+
+### ⚡ Performance Engineering
+- TTR optimization
+- FPS stabilization
+- Re-render reduction
+- Profiling using Flipper & native tools
+- Bundle size optimization
+
+### 🔐 Mobile Security
+- OWASP-aligned practices
+- SSL Pinning
+- Secure token handling (JWT/OAuth2)
+- Encrypted storage
+- Code obfuscation
+
+### 🔁 DevOps & Automation
+- CI/CD pipelines (GitHub Actions, Fastlane)
+- Automated builds & releases
+- Static analysis & dependency management
+
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile
+React Native • Expo • Android (Kotlin/Java) • iOS (Swift/Obj-C)
+
+### 🧠 State Management
+Redux • MobX • Redux Thunk
+
+### 🔐 Security
+JWT • SSL Pinning • Secure Storage
+
+### ⚡ Performance & Tooling
+Flipper • Metro • Gradle • Xcodebuild • Renovate
+
+### 🛠 DevOps
+GitHub Actions • GitLab CI • AppCenter
+
+---
+
+## 🌍 Open Source Contributions
+
+- Contributed features to Expo ecosystem
+- React Native performance & architecture discussions
+- CI/CD workflow improvements
+- Community engagement & proposal reviews
+
+---
+
+## 📈 GitHub Activity
+
+- 900+ contributions in the past year
+- Primarily Pull Requests & code reviews
+- Active in cross-repository collaboration
+
+---
+
+## 📫 Connect With Me
+
+🌐 Website: https://adsalihac.me  
+💼 LinkedIn: https://linkedin.com/in/adsalihac  
+🐦 Twitter/X: @adsalihac  
+
+---
+
+<p align="center">
+⚡ Engineering excellence is not accidental — it is architected.
+</p>
