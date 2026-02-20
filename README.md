@@ -19,10 +19,8 @@ I focus on building production-grade mobile systems that are:
 - 📊 Production-monitored (Crash reporting & analytics)
 - 🏗️ Architected for long-term scalability
 
-I don't just build apps —  
+I don't just build apps, 
 I build systems and teams that scale.
-
-Currently building innovative EdTech ecosystems at **TRIZ 🚀**
 
 ---
 
