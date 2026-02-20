@@ -31,8 +31,12 @@ I build systems and teams that scale.
 - Clean separation of concerns
 - REST optimization & payload efficiency
 - Offline-first capabilities
+- Server-state management using TanStack Query
+- Smart caching & background synchronization strategies
 
 ### ⚡ Performance Engineering
+- Reduced redundant API calls using intelligent caching via TanStack Query
+- Implemented stale-while-revalidate strategy for seamless UX
 - TTR optimization
 - FPS stabilization
 - Re-render reduction
@@ -58,8 +62,15 @@ I build systems and teams that scale.
 ### 📱 Mobile
 React Native • Expo • Android (Kotlin/Java) • iOS (Swift/Obj-C)
 
-### 🧠 State Management
-Redux • MobX • Redux Thunk
+## 🧠 State & Server-State Management
+
+### 🔄 Client State
+Redux • MobX • Redux Thunk • Context API
+
+### 🌐 Server State (Data Fetching Architecture)
+TanStack Query (React Query) • Query Caching • Background Refetching  
+Optimistic Updates • Infinite Queries • Pagination • Prefetching  
+Offline Support • Request Deduplication • Cache Invalidation Strategies
 
 ### 🔐 Security
 JWT • SSL Pinning • Secure Storage
@@ -69,6 +80,12 @@ Flipper • Metro • Gradle • Xcodebuild • Renovate
 
 ### 🛠 DevOps
 GitHub Actions • GitLab CI • AppCenter
+
+### 🧠 State & Data Layer
+Redux • MobX • TanStack Query (React Query)
+
+### 🌐 API & Networking
+REST APIs • GraphQL • React Query • Axios
 
 ---
 
