@@ -115,7 +115,9 @@ REST APIs • GraphQL • React Query • Axios
 ---
 
 ## Support
-<iframe src="https://github.com/sponsors/adsalihac/button" title="Sponsor adsalihac" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?style=flat&logo=github)](https://github.com/sponsors/adsalihac)
+<br/>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adsalihac)
 
 <p align="center">
 ⚡ Engineering excellence is not accidental — it is architected.
