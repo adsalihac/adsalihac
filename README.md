@@ -114,6 +114,9 @@ REST APIs • GraphQL • React Query • Axios
 
 ---
 
+## Support
+<iframe src="https://github.com/sponsors/adsalihac/button" title="Sponsor adsalihac" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 <p align="center">
 ⚡ Engineering excellence is not accidental — it is architected.
 </p>
