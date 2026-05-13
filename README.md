@@ -93,12 +93,6 @@ REST APIs • GraphQL • React Query • Axios
 
 [Readme.gen](https://github.com/adsalihac/readme.gen) — For generate github Readme
 
-## 📈 GitHub Activity
-
-- 900+ contributions in the past year
-- Primarily Pull Requests & code reviews
-- Active in cross-repository collaboration
-
 ---
 
 ## 📫 Connect With Me
