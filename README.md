@@ -91,7 +91,7 @@ REST APIs • GraphQL • React Query • Axios
 
 **Apps**
 
-[Readme.gen](https://github.com/adsalihac/readme.gen) — For generate github Readme
+[Readme.gen](https://readme-gen-git.vercel.app) — For generate github Readme
 
 ---
 
