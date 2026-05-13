@@ -87,16 +87,10 @@ Redux • MobX • TanStack Query (React Query)
 ### 🌐 API & Networking
 REST APIs • GraphQL • React Query • Axios
 
----
+## 🌍 Open Source Projects
 
-## 🌍 Open Source Contributions
-
-- Contributed features to Expo ecosystem
-- React Native performance & architecture discussions
-- CI/CD workflow improvements
-- Community engagement & proposal reviews
-
----
+**Apps**
+[Readme.gen](https://github.com/adsalihac/readme.gen) — For generate github Readme
 
 ## 📈 GitHub Activity
 
