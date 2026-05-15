@@ -91,7 +91,7 @@ REST APIs • GraphQL • React Query • Axios
 
 **Libraries & Tools**
 
-[MalayalamLang](https://github.com/adsalihac/malayalam-lang) — Malayalam Programing Language
+[MalayalamLang](https://malayalam-lang-playground.vercel.app) — Malayalam Programing Language
 
 **Apps**
 
