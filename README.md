@@ -89,6 +89,10 @@ REST APIs • GraphQL • React Query • Axios
 
 ## 🌍 Open Source Projects
 
+**Libraries & Tools**
+
+[MalayalamLang](https://github.com/adsalihac/malayalam-lang) — Malayalam Programing Language
+
 **Apps**
 
 [Readme.gen](https://readme-gen-git.vercel.app) — For generate github Readme
