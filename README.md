@@ -92,6 +92,8 @@ REST APIs • GraphQL • React Query • Axios
 **Libraries & Tools**
 
 [MalayalamLang](https://malayalam-lang-playground.vercel.app) — Malayalam Programing Language
+[SetupStack](https://setupstack.vercel.app) - Generate clean setup guides for your development stack, operating system, and tools.
+
 
 **Apps**
 
