@@ -102,11 +102,12 @@ REST APIs • GraphQL • React Query • Axios
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-🌐 Website: https://adsalihac.me  
-💼 LinkedIn: https://linkedin.com/in/adsalihac  
-🐦 Twitter/X: @adsalihac  
+Website: https://adsalihac.me  
+LinkedIn: https://linkedin.com/in/adsalihac  
+Twitter/X: @adsalihac  
+Medium : https://medium.com/@adsalihac
 
 ---
 
