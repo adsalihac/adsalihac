@@ -99,6 +99,7 @@ REST APIs • GraphQL • React Query • Axios
 **Apps**
 
 [Readme.gen](https://readme-gen-git.vercel.app) — For generate github Readme
+[Availify](https://availify-livid.vercel.app/) - For Instantly check your app name across App Store, Play Store, Domains .etc
 
 ---
 
