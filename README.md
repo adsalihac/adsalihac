@@ -90,18 +90,18 @@ REST APIs • GraphQL • React Query • Axios
 ## 🌍 Open Source Projects
 
 **Libraries & Tools**
-
+<br/>
 [setup-stack](https://setupstack.vercel.app) - Generate clean setup guides for your development stack, operating system, and tools.
-
+<br/>
 [package-intelligence](https://package-intelligence.vercel.app/) - Check your app package health and maintenance support. 
 
 
 **Apps**
-
+<br/>
 [readme.gen](https://readme-gen-git.vercel.app) — For generate github Readme
-
+<br/>
 [malayalam-lang](https://malayalam-lang-playground.vercel.app) — Malayalam Programing Language
-
+<br/>
 [availify](https://availify-livid.vercel.app/) - For Instantly check your app name across App Store, Play Store, Domains .etc
 
 ---
@@ -112,6 +112,7 @@ Website: https://adsalihac.me
 LinkedIn: https://linkedin.com/in/adsalihac  
 Twitter/X: @adsalihac  
 Medium : https://medium.com/@adsalihac
+<br/>
 React Native WhatsApp Channel : https://whatsapp.com/channel/0029Va4ltHlIXnllm4BEaq1P
 
 ---
