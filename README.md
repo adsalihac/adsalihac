@@ -112,6 +112,7 @@ Website: https://adsalihac.me
 LinkedIn: https://linkedin.com/in/adsalihac  
 Twitter/X: @adsalihac  
 Medium : https://medium.com/@adsalihac
+React Native WhatsApp Channel : https://whatsapp.com/channel/0029Va4ltHlIXnllm4BEaq1P
 
 ---
 
