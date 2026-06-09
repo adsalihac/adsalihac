@@ -105,6 +105,8 @@ REST APIs • GraphQL • React Query • Axios
 [availify](https://availify-livid.vercel.app/) - For Instantly check your app name across App Store, Play Store, Domains .etc
 <br/>
 [vibe-score](https://vibe-score-rho.vercel.app) - For Vibe codebase analytics and get report.
+<br/>
+[ship-or-skip](https://ship-or-skip-two.vercel.app) - Get an objective evaluation of your startup idea before investing months into development. 
 
 ---
 
