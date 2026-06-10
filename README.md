@@ -107,6 +107,8 @@ REST APIs • GraphQL • React Query • Axios
 [vibe-score](https://vibe-score-rho.vercel.app) - For Vibe codebase analytics and get report.
 <br/>
 [ship-or-skip](https://ship-or-skip-two.vercel.app) - Get an objective evaluation of your startup idea before investing months into development. 
+<br/>
+[launch-guard](https://launch-guard-nine.vercel.app/) - Get an instant App Store and Google Play review risk assessment before you submit.
 
 ---
 
