@@ -93,7 +93,9 @@ REST APIs • GraphQL • React Query • Axios
 <br/>
 [setup-stack](https://setupstack.vercel.app) - Generate clean setup guides for your development stack, operating system, and tools.
 <br/>
-[package-intelligence](https://package-intelligence.vercel.app/) - Check your app package health and maintenance support. 
+[package-intelligence](https://package-intelligence.vercel.app) - Check your app package health and maintenance support.
+<br/>
+[api-witness](https://api-witness.vercel.app) - Record real API traffic from React Native and Expo apps, detect failures, track response changes, and generate developer-ready reports automatically.
 
 
 **Apps**
