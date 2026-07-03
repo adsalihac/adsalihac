@@ -113,6 +113,7 @@ REST APIs • GraphQL • React Query • Axios
 [launch-guard](https://launch-guard-nine.vercel.app/) - Get an instant App Store and Google Play review risk assessment before you submit.
 <br/>
 [privacy-kit](https://privacy-kit-two.vercel.app/) - Create Privacy Policies, App Store Privacy Nutrition Labels, Google Play Data Safety sections, and compliance checklists for your mobile app.
+[pixel-qr](https://pixel-qr-ten.vercel.app) - Generate Customized QR.
 
 ---
 
