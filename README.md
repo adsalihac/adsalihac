@@ -115,6 +115,12 @@ REST APIs • GraphQL • React Query • Axios
 [privacy-kit](https://privacy-kit-two.vercel.app/) - Create Privacy Policies, App Store Privacy Nutrition Labels, Google Play Data Safety sections, and compliance checklists for your mobile app.
 <br/>
 [pixel-qr](https://pixel-qr.adsalihac.me) - Generate Customized QR.
+<br/>
+
+**Games**
+<br/>
+[town-rise](https://town-rise.vercel.app/) - Build your own town
+<br/>
 
 ---
 
