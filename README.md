@@ -119,7 +119,7 @@ REST APIs • GraphQL • React Query • Axios
 
 **Games**
 <br/>
-[town-rise](https://town-rise.vercel.app/) - Build your own town
+[town-rise](http://townrise.adsalihac.me/) - Build your own town
 <br/>
 
 ---
