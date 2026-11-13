@@ -106,7 +106,7 @@ REST APIs • GraphQL • React Query • Axios
 <br/>
 [availify](https://availify-livid.vercel.app/) - For Instantly check your app name across App Store, Play Store, Domains .etc
 <br/>
-[vibe-score](https://vibescore.adsalihac.me) - For Vibe codebase analytics and get report.
+[vibe-score](https://vibescore.adsalihac.dev) - For Vibe codebase analytics and get report.
 <br/>
 [ship-or-skip](https://ship-or-skip-two.vercel.app) - Get an objective evaluation of your startup idea before investing months into development. 
 <br/>
@@ -114,12 +114,12 @@ REST APIs • GraphQL • React Query • Axios
 <br/>
 [privacy-kit](https://privacy-kit-two.vercel.app/) - Create Privacy Policies, App Store Privacy Nutrition Labels, Google Play Data Safety sections, and compliance checklists for your mobile app.
 <br/>
-[pixel-qr](https://pixel-qr.adsalihac.me) - Generate Customized QR.
+[pixel-qr](https://pixel-qr.adsalihac.dev) - Generate Customized QR.
 <br/>
 
 **Games**
 <br/>
-[town-rise](http://townrise.adsalihac.me/) - Build your own town
+[town-rise](http://townrise.adsalihac.dev/) - Build your own town
 <br/>
 
 ---
@@ -128,7 +128,7 @@ REST APIs • GraphQL • React Query • Axios
 
 Product Hunt : https://www.producthunt.com/@adsalihac
 <br/>
-Website: https://adsalihac.me  
+Website: https://adsalihac.dev  
 LinkedIn: https://linkedin.com/in/adsalihac  
 Twitter/X: @adsalihac  
 Medium : https://medium.com/@adsalihac
